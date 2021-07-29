@@ -13,7 +13,6 @@
 - Live SASS Compiler (Ritwick Dey)
 - Beautify CSS (michelemelluso)
 - Emmet Live (Yurii Semeniuk)
-- Javascript (Chakalanpos Karypidis)
 
 ### Containers
 
