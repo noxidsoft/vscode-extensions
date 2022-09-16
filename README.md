@@ -9,16 +9,15 @@
 ### Code care
 
 - Prettier - Code formatter (Prettier)
-- Bracket Pair Colorizer (CoenraadS)
-- Live SASS Compiler (Ritwick Dey)
+- Live SASS Compiler (Glenn Marks)
 - Beautify CSS (michelemelluso)
 - Emmet Live (Yurii Semeniuk)
 
 ### Containers
 
-- GitLens — Git supercharged (Eric Amodio)
+- GitLens — Git supercharged (GitKraken)
 - Docker (Microsoft)
-- Github (KnistrPeter) - thanks D.Newman
+- Github Pull Requests and Issues (GitHub)
 
 ### PHP/JS/CSS tools
 
@@ -29,7 +28,6 @@
 - Laravel Snippets (Winnie Lin)
 - Laravel Extra Intellisense (amir)
 - Getter and Setter Generator (Agustin Marinez Ibara)
-- PHP Intellisense (Felix Becker)
 - Tailwind CSS Intellisense (Brad Cornes)
 - ES7 React/Redux/GraphQL/React-Native snippets (dsznajder)
 - PHP Intelephense (Ben Mewburn)
