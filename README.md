@@ -5,6 +5,7 @@
 - Font size 16
 - Cobalt2 (Wes Bos)
 - VSCode Great Icons (Emmanuel Beziat)
+- Fluent Icons (Miguel Solorio)
 
 ### Code care
 
@@ -12,6 +13,7 @@
 - Live SASS Compiler (Glenn Marks)
 - Beautify CSS (michelemelluso)
 - Emmet Live (Yurii Semeniuk)
+- Auto Rename Tag (Jun Han)
 
 ### Containers
 
