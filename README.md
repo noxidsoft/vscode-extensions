@@ -5,21 +5,21 @@
 - Font size 16
 - Cobalt2 (Wes Bos)
 - VSCode Great Icons (Emmanuel Beziat)
+- Fluent Icons (Miguel Solorio)
 
 ### Code care
 
 - Prettier - Code formatter (Prettier)
-- Bracket Pair Colorizer (CoenraadS)
-- Live SASS Compiler (Ritwick Dey)
+- Live SASS Compiler (Glenn Marks)
 - Beautify CSS (michelemelluso)
 - Emmet Live (Yurii Semeniuk)
-- Javascript (Chakalanpos Karypidis)
+- Auto Rename Tag (Jun Han)
 
 ### Containers
 
-- GitLens — Git supercharged (Eric Amodio)
+- GitLens — Git supercharged (GitKraken)
 - Docker (Microsoft)
-- Github (KnistrPeter) - thanks D.Newman
+- Github Pull Requests and Issues (GitHub)
 
 ### PHP/JS/CSS tools
 
