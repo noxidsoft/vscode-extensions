@@ -31,7 +31,7 @@
 - Laravel Extra Intellisense (amir)
 - Getter and Setter Generator (Agustin Marinez Ibara)
 - PHP Intellisense (Felix Becker)
-- Tailwind CSS Intellisense (Brad Cornes)
+- Tailwind CSS Intellisense (Tailwind)
 - ES7 React/Redux/GraphQL/React-Native snippets (dsznajder)
 - PHP Intelephense (Ben Mewburn)
 
